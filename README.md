@@ -10,3 +10,5 @@ Situation where the prediction of a class is less that 5%.
 2) Random Under-Sampling.
 3) Random Over-Sampling.
 4) Biasing the weights.
+
+-- for detailed procedure and codewise understanding refer to report.pdf in the files.
